@@ -18,7 +18,7 @@ const kotakbaju = 'tommy';
 console.log(kotakbaju);
 
 for (let i = 0; i < 10; i++) {
-    if (i % 2 == 0 {})
+    if (i % 2 == 0 {});
 }
 
 const $satu = 1;
@@ -33,13 +33,13 @@ const angka = 1;
 console.log(typeof angka); 'number'
 
 //boolean variable
-const booltrue = true;
-const boolfalse = false;
+const booltrue = true
+const boolfalse = false
 console.log(typeof booltrue); 'boolean'
 console.log(typeof boolfalse); 'boolean'
 
 //null variable
-const nulls = null;
+const nulls = null
 console.log(typeof nulls); 'object'
 
 //undefined variable
